@@ -58,4 +58,10 @@ At first the Red LED is ON, if the user button is pressed and held for 2 secs. W
 |--|--|--|
 | LLR-1 |User able to read output data |  Implemented |
 | LLR-2 | Displays output data without any errors| Implemented |
+# Design
+## 1. Structural Diagram
+A structure diagram is a tool for documenting the various structures that make up a system. It depicts the system's hierarchy or structure, as well as how the various components or modules are connected and interacted with one another.
+## 2. Behavioral Diagram
+Behavioral diagrams depict a dynamic perspective of a system or its behaviour, which illustrates how the system functions.It establishes the system's interaction.
+
 
