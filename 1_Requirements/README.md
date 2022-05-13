@@ -41,3 +41,21 @@ At first the Red LED is ON, if the user button is pressed and held for 2 secs. W
 * High potential.
 ## Threats
 * User acceptability in terms of buy intent and post-purchase activation frequency.
+# DETAIL REQUIREMENTS
+
+## High Level Requirements
+| ID | Description | Status |
+|--|--|--|
+| HLR-1 |Ignition Key Position is at ACCESSORY| Implemented |
+| HLR-2 |It will turn on the Wiper System| Implemented |
+| HLR-3 |It will turn off the wiper system|  Implemented |
+| HLR-4 |Ignition Key Position is at LOCK|  Implemented |
+
+## Low Level Requirements 
+
+| ID | Description |  Status |
+|--|--|--|
+| LLR-1 |User able to read output data |  Implemented |
+| LLR-2 | Displays output data without any errors| Implemented |
+
+
