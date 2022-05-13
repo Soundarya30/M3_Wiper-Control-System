@@ -22,6 +22,22 @@ At first the Red LED is ON, if the user button is pressed and held for 2 secs. W
 ## Why
 * To keep the windscreen clean enough to maintain clear view at all times.
 ## When
-* The primary goal is to keep the windshield clear of rain, grease, dust, and snow. so that we can use wipers whenever these objects hit the windshield.
+* The primary goal is to keep the windshield clear of rain, grease, dust, and snow so that we can use wipers whenever these objects hit the windshield.
 ## What
 * Wiper control system is used to clean the dust, rain, grease from the windshield.
+## How
+* A worn gear is connected to an electric motor that drives the wiper system. It sends the necessary force to a long rod, which moves the wiper arms. The worm gear can create the force needed to move the wipers at their maximum speed.
+# SWOT Analysis
+![swot](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBXtP7SfAWV6-y86dDEjFACwRXrHjVeEMOUw&usqp=CAU)
+## Strength
+* Increases the safety of the passengers.
+* Avoid accidents that happens during rainy seasons.
+* Clean the dust, rain drops from the windshield.
+## Weakness
+* Has to maintain a lot.
+* May not clean the dust properly from the windshield. 
+## Opportunities
+* System costs may be reduced as technology matures.
+* High potential.
+## Threats
+* User acceptability in terms of buy intent and post-purchase activation frequency.
