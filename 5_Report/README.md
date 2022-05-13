@@ -17,4 +17,45 @@ The STM32F407 Kit makes it simple for users to construct audio-based application
 * SRAM with up to 192+4 Kbytes, including 64 Kbytes of CCM (Core Coupled Memory) data RAM.
 * Compact flash SRAM, PSRAM, NOR, and NAND memories are supported by this flexible static memory controller.
 # Working Principle
+At first the Red LED is ON, if the user button is pressed and held for 2 secs. Wiper is OFF: On press of the user input, Blue, Green and Orange LEDs come ON one at a time with the set frequency, The frequency changes on every alternate key press, 3 frequency levels with 1, 4 and 8 Hz. Wiper is ON: The LED glow pattern stops on the 4th press; the wiper action starts next press onwards as mentioned in step 2.
+# 4W's and 1H
+## Where
+* The user can utilise this in their daily lives to measure their safety and improve their life outcomes when travelling.
+## Why
+* To keep the windscreen clean enough to maintain clear view at all times.
+## When
+* The primary goal is to keep the windshield clear of rain, grease, dust, and snow so that we can use wipers whenever these objects hit the windshield.
+## What
+* Wiper control system is used to clean the dust, rain, grease from the windshield.
+## How
+* A worn gear is connected to an electric motor that drives the wiper system. It sends the necessary force to a long rod, which moves the wiper arms. The worm gear can create the force needed to move the wipers at their maximum speed.
+# SWOT Analysis
+![swot](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBXtP7SfAWV6-y86dDEjFACwRXrHjVeEMOUw&usqp=CAU)
+## Strength
+* Increases the safety of the passengers.
+* Avoid accidents that happens during rainy seasons.
+* Clean the dust, rain drops from the windshield.
+## Weakness
+* Has to maintain a lot.
+* May not clean the dust properly from the windshield. 
+## Opportunities
+* System costs may be reduced as technology matures.
+* High potential.
+## Threats
+* User acceptability in terms of buy intent and post-purchase activation frequency.
+# Detail Requirements
+## High Level Requirements
+| ID | Description | Status |
+|--|--|--|
+| HLR-1 |Ignition Key Position is at ACCESSORY| Implemented |
+| HLR-2 |It will turn on the Wiper System| Implemented |
+| HLR-3 |It will turn off the wiper system|  Implemented |
+| HLR-4 |Ignition Key Position is at LOCK|  Implemented |
+
+## Low Level Requirements 
+
+| ID | Description |  Status |
+|--|--|--|
+| LLR-1 |User able to read output data |  Implemented |
+| LLR-2 | Displays output data without any errors| Implemented |
 
