@@ -68,3 +68,6 @@ A structure diagram is a tool for documenting the various structures that make u
 Behavioral diagrams depict a dynamic perspective of a system or its behaviour, which illustrates how the system functions.It establishes the system's interaction.
 
 
+![behavioral](https://github.com/Soundarya30/M3_Wiper-Control-System/blob/main/2_Design/Behavioral%20Design.drawio.png)
+
+
