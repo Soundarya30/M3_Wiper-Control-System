@@ -1,1 +1,1 @@
-
+A wiper is a necessary component that cleans raindrops or any other liquid off the vehicle's windscreen.The operational speed of a vehicle wiper is controlled by a wiper speed control mechanism based on rain conditions.
