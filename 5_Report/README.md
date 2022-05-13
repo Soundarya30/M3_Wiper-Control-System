@@ -61,6 +61,9 @@ At first the Red LED is ON, if the user button is pressed and held for 2 secs. W
 # Design
 ## 1. Structural Diagram
 A structure diagram is a tool for documenting the various structures that make up a system. It depicts the system's hierarchy or structure, as well as how the various components or modules are connected and interacted with one another.
+
+
+![structural](https://github.com/Soundarya30/M3_Wiper-Control-System/blob/main/2_Design/Structural%20Design.drawio.png)
 ## 2. Behavioral Diagram
 Behavioral diagrams depict a dynamic perspective of a system or its behaviour, which illustrates how the system functions.It establishes the system's interaction.
 
