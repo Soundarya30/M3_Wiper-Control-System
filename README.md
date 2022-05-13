@@ -1,4 +1,4 @@
-# Wiper-Control-System
+# Wiper Control System
 # Folder Structure
 Folder             | Description
 -------------------| -----------------------------------------
