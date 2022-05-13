@@ -41,8 +41,7 @@ At first the Red LED is ON, if the user button is pressed and held for 2 secs. W
 * High potential.
 ## Threats
 * User acceptability in terms of buy intent and post-purchase activation frequency.
-# DETAIL REQUIREMENTS
-
+# Detail Requirements
 ## High Level Requirements
 | ID | Description | Status |
 |--|--|--|
