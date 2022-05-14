@@ -54,7 +54,9 @@ At first the Red LED is ON, if the user button is pressed and held for 2 secs. W
 
 | ID | Description |  Status |
 |--|--|--|
-| LLR-1 |User able to read output data |  Implemented |
-| LLR-2 | Displays output data without any errors| Implemented |
+| LLR-1 |User button pressed once- RED LED ON|  Implemented |
+| LLR-2 |User button pressed twice- RED LED OFF| Implemented |
+| LLR-3 |User button pressed thrice-LED ON one by one| Implemented |
+| LLR-4 |User button pressed fourth time-LED OFF one by one| Implemented |
 
 
