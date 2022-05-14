@@ -1,6 +1,9 @@
 # Wiper Control System
  
  ![wiper image](https://media.istockphoto.com/photos/rainy-mountain-road-picture-id521007958?k=20&m=521007958&s=612x612&w=0&h=0KOV6Y1OPS4_ywWHzSkcdcuYWZYz00OQiH5WMCBo13E=)
+ 
+ # Badges
+[![Valgrind](https://github.com/Soundarya30/M3_Wiper-Control-System/actions/workflows/Valgrind.yml/badge.svg)](https://github.com/Soundarya30/M3_Wiper-Control-System/actions/workflows/Valgrind.yml)
 # Folder Structure
 Folder             | Description
 -------------------| -----------------------------------------
