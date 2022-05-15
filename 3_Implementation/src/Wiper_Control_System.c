@@ -4,11 +4,11 @@
 #include "stm32f4xx_hal.h"
 
 
-void Init_OnBoard_LEDs(void);
+void Init_LEDs(void);
 void Delay(volatile int time);
 int main(void)
 {
-Init_OnBoard_LEDs();
+Init_LEDs();
 static int Switch_count=0;
 while(1)
 {
@@ -48,16 +48,16 @@ while(1)
 }
 }
 
-void Init_OnBoard_LEDs(void)
+void Init_LEDs(void)
 {
 	 __HAL_RCC_GPIOD_CLK_ENABLE();
-	GPIO_InitTypeDef BoardLEDs;
-	BoardLEDs.Mode = GPIO_MODE_OUTPUT_PP;
-        BoardLEDs.Pin = GPIO_PIN_14;
-        BoardLEDs.Pin = GPIO_PIN_15;
-        BoardLEDs.Pin = GPIO_PIN_12;
-        BoardLEDs.Pin = GPIO_PIN_13;
-	HAL_GPIO_Init(GPIOD, &BoardLEDs);
+	GPIO_InitTypeDef LEDs_on_board;
+	LEDs_on_board.Mode = GPIO_MODE_OUTPUT_PP;
+        LEDs_on_board.Pin = GPIO_PIN_14;
+        LEDs_on_board.Pin = GPIO_PIN_15;
+        LEDs_on_board.Pin = GPIO_PIN_12;
+        LEDs_on_board.Pin = GPIO_PIN_13;
+	HAL_GPIO_Init(GPIOD, &LEDs_on_board);
 }
 void Delay(volatile int time)
 {
