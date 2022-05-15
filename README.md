@@ -3,9 +3,13 @@
  ![wiper image](https://media.istockphoto.com/photos/rainy-mountain-road-picture-id521007958?k=20&m=521007958&s=612x612&w=0&h=0KOV6Y1OPS4_ywWHzSkcdcuYWZYz00OQiH5WMCBo13E=)
  
  # Badges
- Codacy- Static code analysis
+ Codacy- Static Code Analysis
  
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/de510c2b70a64addb9d3ce098aac5b94)](https://www.codacy.com/gh/Soundarya30/M3_Wiper-Control-System/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Soundarya30/M3_Wiper-Control-System&amp;utm_campaign=Badge_Grade)
+
+Codiga- Static Code Analysis
+
+![Codiga Badge](https://api.codiga.io/project/33526/status/svg) ![Codiga score](https://api.codiga.io/project/33526/score/svg)
 
 [![Valgrind](https://github.com/Soundarya30/M3_Wiper-Control-System/actions/workflows/Valgrind.yml/badge.svg)](https://github.com/Soundarya30/M3_Wiper-Control-System/actions/workflows/Valgrind.yml)
 
