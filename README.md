@@ -3,6 +3,7 @@
  ![wiper image](https://media.istockphoto.com/photos/rainy-mountain-road-picture-id521007958?k=20&m=521007958&s=612x612&w=0&h=0KOV6Y1OPS4_ywWHzSkcdcuYWZYz00OQiH5WMCBo13E=)
  
  # Badges
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/94f96146b96f411b9a29772ad7072def)](https://app.codacy.com/gh/Soundarya30/M3_Wiper-Control-System?utm_source=github.com&utm_medium=referral&utm_content=Soundarya30/M3_Wiper-Control-System&utm_campaign=Badge_Grade_Settings)
 [![Valgrind](https://github.com/Soundarya30/M3_Wiper-Control-System/actions/workflows/Valgrind.yml/badge.svg)](https://github.com/Soundarya30/M3_Wiper-Control-System/actions/workflows/Valgrind.yml)
 
 [![Contribution Check - Git Inspector](https://github.com/Soundarya30/M3_Wiper-Control-System/actions/workflows/git_inspector.yml/badge.svg)](https://github.com/Soundarya30/M3_Wiper-Control-System/actions/workflows/git_inspector.yml)
