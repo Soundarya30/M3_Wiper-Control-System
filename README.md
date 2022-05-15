@@ -17,6 +17,7 @@ Codiga- Static Code Analysis
 
 [![Build CI -Linux](https://github.com/Soundarya30/M3_Wiper-Control-System/actions/workflows/Build_linux.yml/badge.svg)](https://github.com/Soundarya30/M3_Wiper-Control-System/actions/workflows/Build_linux.yml)
 
+[![Contribution Check - Git Inspector](https://github.com/Soundarya30/M3_Wiper-Control-System/actions/workflows/Git_inspector.yml/badge.svg)](https://github.com/Soundarya30/M3_Wiper-Control-System/actions/workflows/Git_inspector.yml)
 # Folder Structure
 Folder             | Description
 -------------------| -----------------------------------------
