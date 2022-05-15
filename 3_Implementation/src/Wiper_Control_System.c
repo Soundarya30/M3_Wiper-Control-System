@@ -8,14 +8,14 @@ void Init_OnBoard_LEDs(void);
 void Delay(volatile int time);
 int main(void)
 {
-	Init_OnBoard_LEDs();
-  static int Switch_count=0;
-	while(1)
-	{
+Init_OnBoard_LEDs();
+static int Switch_count=0;
+while(1)
+{
   if(Switch_count==1) 
   {
-    HAL_GPIO_TogglePin(GPIOD,GPIO_PIN_14);
-	Delay(10000);
+  HAL_GPIO_TogglePin(GPIOD,GPIO_PIN_14);
+  Delay(10000);
   HAL_GPIO_TogglePin(GPIOD,GPIO_PIN_15);
   Delay(10000);
   HAL_GPIO_TogglePin(GPIOD,GPIO_PIN_12);
@@ -25,8 +25,8 @@ int main(void)
   }
   if(Switch_count==2) 
   {
-    HAL_GPIO_TogglePin(GPIOD,GPIO_PIN_14);
-	Delay(2500);
+  HAL_GPIO_TogglePin(GPIOD,GPIO_PIN_14);
+  Delay(2500);
   HAL_GPIO_TogglePin(GPIOD,GPIO_PIN_15);
   Delay(2500);
   HAL_GPIO_TogglePin(GPIOD,GPIO_PIN_12);
@@ -37,7 +37,7 @@ int main(void)
   if(Switch_count==3) 
   {
   HAL_GPIO_TogglePin(GPIOD,GPIO_PIN_14);
-	Delay(1250);
+  Delay(1250);
   HAL_GPIO_TogglePin(GPIOD,GPIO_PIN_15);
   Delay(1250);
   HAL_GPIO_TogglePin(GPIOD,GPIO_PIN_12);
@@ -61,7 +61,7 @@ void Init_OnBoard_LEDs(void)
 }
 void Delay(volatile int time)
 {
-	      int j;
+	int j;
         for(j = 0; j < time*4000; j++)
-            {}  
+        {};
 }
