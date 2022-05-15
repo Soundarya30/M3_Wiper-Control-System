@@ -11,6 +11,8 @@ Codiga- Static Code Analysis
 
 ![Codiga Badge](https://api.codiga.io/project/33526/status/svg) ![Codiga score](https://api.codiga.io/project/33526/score/svg)
 
+[![Analysis](https://github.com/Soundarya30/M3_Wiper-Control-System/actions/workflows/Analysis.yml/badge.svg)](https://github.com/Soundarya30/M3_Wiper-Control-System/actions/workflows/Analysis.yml)
+
 [![Valgrind](https://github.com/Soundarya30/M3_Wiper-Control-System/actions/workflows/Valgrind.yml/badge.svg)](https://github.com/Soundarya30/M3_Wiper-Control-System/actions/workflows/Valgrind.yml)
 
 [![Contribution Check - Git Inspector](https://github.com/Soundarya30/M3_Wiper-Control-System/actions/workflows/git_inspector.yml/badge.svg)](https://github.com/Soundarya30/M3_Wiper-Control-System/actions/workflows/git_inspector.yml)
