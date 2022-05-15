@@ -13,6 +13,8 @@ Codiga- Static Code Analysis
 
 [![Analysis](https://github.com/Soundarya30/M3_Wiper-Control-System/actions/workflows/Analysis.yml/badge.svg)](https://github.com/Soundarya30/M3_Wiper-Control-System/actions/workflows/Analysis.yml)
 
+[![Build CI - Windows](https://github.com/Soundarya30/M3_Wiper-Control-System/actions/workflows/Build-Windows.yml/badge.svg)](https://github.com/Soundarya30/M3_Wiper-Control-System/actions/workflows/Build-Windows.yml)
+
 [![Valgrind](https://github.com/Soundarya30/M3_Wiper-Control-System/actions/workflows/Valgrind.yml/badge.svg)](https://github.com/Soundarya30/M3_Wiper-Control-System/actions/workflows/Valgrind.yml)
 
 [![Contribution Check - Git Inspector](https://github.com/Soundarya30/M3_Wiper-Control-System/actions/workflows/git_inspector.yml/badge.svg)](https://github.com/Soundarya30/M3_Wiper-Control-System/actions/workflows/git_inspector.yml)
