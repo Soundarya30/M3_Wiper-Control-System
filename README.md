@@ -20,6 +20,8 @@ Codiga- Static Code Analysis
 [![Contribution Check - Git Inspector](https://github.com/Soundarya30/M3_Wiper-Control-System/actions/workflows/Git_inspector.yml/badge.svg)](https://github.com/Soundarya30/M3_Wiper-Control-System/actions/workflows/Git_inspector.yml)
 
 [![Valgrind](https://github.com/Soundarya30/M3_Wiper-Control-System/actions/workflows/Valgrind.yml/badge.svg)](https://github.com/Soundarya30/M3_Wiper-Control-System/actions/workflows/Valgrind.yml)
+
+[![cppcheck-action](https://github.com/Soundarya30/M3_Wiper-Control-System/actions/workflows/cpp%20check.yml/badge.svg)](https://github.com/Soundarya30/M3_Wiper-Control-System/actions/workflows/cpp%20check.yml)
 # Folder Structure
 Folder             | Description
 -------------------| -----------------------------------------
