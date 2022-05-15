@@ -5,6 +5,7 @@ A wiper is used to clean car glass that has been exposed to dirt or rainwater. T
 * To remove the raindrops, dust, oil or water from the windshield.
 # Software Requirements
 * STM32 CUBE IDE
+* QEMO
 # Components
 * STM32F407VG Microcontroller Board
 # Description
