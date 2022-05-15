@@ -3,6 +3,13 @@ A wiper is used to clean car glass that has been exposed to dirt or rainwater. T
 # Aim & Objective
 * To prevent the accident during rain conditions
 * To remove the raindrops, dust, oil or water from the windshield.
+# Features
+* It will help to remove the dirt and rainfall drops from the windshield.
+* LED turns ON when user button is pressed once.
+* LED turns OFF when user button is pressed twice.
+* Depending upon the frequency rate, LED turns ON one by one.
+# Research
+Mary Anderson, an American inventor, is credited with creating the first operational windshield wiper in 1903. By 1917, John Oeishi had founded the Tri-Continental Corporation, which would later become Trico, a significant supplier of windshield wipers around the world. By the early 1920s, the hand-cranked wiper had been upgraded with a system that used engine vacuum to drive the motor. In the early 1960s, vacuum wipers were replaced with an electric motor, and the intermittent wiper was developed in the mid 1960s. With the advancement of technology, the wiper windshields were also changed.
 # Software Requirements
 * STM32 CUBE IDE
 * QEMO
