@@ -5,6 +5,7 @@
  # Badges
  Codacy- Static Code Analysis
  
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/6a98f10292d84e56bbb4c871835bde5c)](https://app.codacy.com/gh/Soundarya30/M3_Wiper-Control-System?utm_source=github.com&utm_medium=referral&utm_content=Soundarya30/M3_Wiper-Control-System&utm_campaign=Badge_Grade_Settings)
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/68667d5e198640ed8662cbbd0b8f6a8b)](https://www.codacy.com/gh/Soundarya30/M3_Wiper-Control-System/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Soundarya30/M3_Wiper-Control-System&amp;utm_campaign=Badge_Grade)
 
 Codiga- Static Code Analysis
