@@ -32,6 +32,12 @@ Folder             | Description
 `4_TestPlanAndOutput`      | Documents with test plans and output
 `5_Report`  | Document consisting of all details
 `6_OutputImagesAndVideo` | Document holding output images and video
+## Contributors List and Summary
+
+|S.No. |  Name   |    Features    |No Test Cases|Test Case Pass|
+|:---:|:---:|:---:|:---:|:---:|
+|1. |SoundaryaV| Entire Project (Requirements, Architecture, Implementation, TestPlanAndOutput and Report)   | 4   | 4    |
+
 # Integrated Tools to GitHub
 * [Codacy](https://www.codacy.com/)
 * [Codiga](https://www.codiga.io/)
