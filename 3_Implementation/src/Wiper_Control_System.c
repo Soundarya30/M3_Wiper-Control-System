@@ -12,7 +12,7 @@ Init_LEDs();
 static int Switch_count=0;
 while(1)
 {
-  if(Switch_count==1) 
+  if(Switch_count=1) 
   {
   HAL_GPIO_TogglePin(GPIOD,GPIO_PIN_14);
   Delay(10000);
@@ -23,7 +23,7 @@ while(1)
   HAL_GPIO_TogglePin(GPIOD,GPIO_PIN_13);
   Delay(10000);
   }
-  if(Switch_count==2) 
+  if(Switch_count=2) 
   {
   HAL_GPIO_TogglePin(GPIOD,GPIO_PIN_14);
   Delay(2500);
@@ -34,7 +34,7 @@ while(1)
   HAL_GPIO_TogglePin(GPIOD,GPIO_PIN_13);
   Delay(2500); 
 	}
-  if(Switch_count==3) 
+  if(Switch_count=3) 
   {
   HAL_GPIO_TogglePin(GPIOD,GPIO_PIN_14);
   Delay(1250);
